@@ -1,0 +1,31 @@
+.first-div
+{
+    width: 500px;
+    height: 500px;
+    align-content: center;
+background-color: blueviolet;
+border-width: 3px;
+border-color: brown;
+border-radius: 20%;
+margin: 10px;
+padding: 5px;
+font-size: x-large;
+padding-left: 3%;
+padding-right: 3%;
+}
+.normal-para
+{
+   background-color: darkgreen;
+   padding-top: 5%;
+   padding-bottom: 5%;
+   padding-left: 5%;
+   padding-right: 5%;
+}
+#fav-para
+{
+    background-color: purple;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
